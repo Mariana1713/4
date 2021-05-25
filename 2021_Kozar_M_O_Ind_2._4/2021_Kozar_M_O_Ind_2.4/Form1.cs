@@ -9,7 +9,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _2020_Semeniuk_O_A_Ind_2._4
+namespace _2021_Kozar_M_O_Ind_2._4
 {
     public partial class Form1 : Form
 	{
