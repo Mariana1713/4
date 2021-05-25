@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\5\2021_Kozar_M_O_Ind_2.4\obj\Debug\2021_Kozar_M_O_Ind_2.4.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\5\2021_Kozar_M_O_Ind_2.4\obj\Debug\_2020_Semeniuk_O_A_Ind_2._4.Form1.resources
+C:\Users\ASUS\Desktop\5\2021_Kozar_M_O_Ind_2.4\obj\Debug\2021_Kozar_M_O_Ind_2._4.Properties.Resources.resources
+C:\Users\ASUS\Desktop\5\2021_Kozar_M_O_Ind_2.4\obj\Debug\2021_Kozar_M_O_Ind_2.4.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\5\2021_Kozar_M_O_Ind_2.4\obj\Debug\2021_Kozar_M_O_Ind_2.4.csproj.CoreCompileInputs.cache

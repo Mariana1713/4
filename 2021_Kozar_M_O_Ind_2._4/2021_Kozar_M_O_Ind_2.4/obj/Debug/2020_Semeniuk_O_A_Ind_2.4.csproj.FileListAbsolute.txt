@@ -1,0 +1,9 @@
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\bin\Debug\2020_Semeniuk_O_A_Ind_2.4.exe.config
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\bin\Debug\2020_Semeniuk_O_A_Ind_2.4.exe
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\bin\Debug\2020_Semeniuk_O_A_Ind_2.4.pdb
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\obj\Debug\2020_Semeniuk_O_A_Ind_2.4.csprojAssemblyReference.cache
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\obj\Debug\_2020_Semeniuk_O_A_Ind_2._4.Form1.resources
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\obj\Debug\_2020_Semeniuk_O_A_Ind_2._4.Properties.Resources.resources
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\obj\Debug\2020_Semeniuk_O_A_Ind_2.4.csproj.GenerateResource.cache
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\obj\Debug\2020_Semeniuk_O_A_Ind_2.4.exe
+C:\Users\semeniuk_o\OneDrive - ДонНУ\Документи\2020_Semeniuk_O_A_Ind_2.4\2020_Semeniuk_O_A_Ind_2.4\obj\Debug\2020_Semeniuk_O_A_Ind_2.4.pdb
